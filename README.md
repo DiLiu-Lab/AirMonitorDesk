@@ -29,7 +29,6 @@ AirMonitorDesk/
 │
 ├─ README.md
 ├─ LICENSE
-├─ requirements.txt
 │
 ├─ firmware/
 │  └─ AirMonitorDesk/
